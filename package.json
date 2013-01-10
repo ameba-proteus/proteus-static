@@ -1,0 +1,19 @@
+{
+	"name": "proteus-static",
+	"version": "0.1.0",
+	"description": "static file provider as express middleware",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "",
+	"dependencies": {
+		"connect": "2.x.x",
+		"uglify-js": "2.x.x",
+		"stylus": "*"
+	},
+	"devDependencies": {
+	},
+	"author": "",
+	"license": "BSD"
+}
