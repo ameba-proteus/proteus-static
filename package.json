@@ -1,6 +1,6 @@
 {
 	"name": "proteus-static",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "static file provider as express middleware",
 	"main": "index.js",
 	"scripts": {
@@ -8,9 +8,9 @@
 	},
 	"repository": "",
 	"dependencies": {
-		"connect": "2.x.x",
-		"uglify-js": "2.x.x",
-		"stylus": "*"
+		"connect": "2.7.3",
+		"uglify-js": "2.2.5",
+		"stylus": "0.32.1"
 	},
 	"devDependencies": {
 	},
